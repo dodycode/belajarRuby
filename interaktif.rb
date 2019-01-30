@@ -1,4 +1,4 @@
-puts "Halo nama kamu siapa?"
+puts 'Halo nama kamu siapa?'
 
 nama = gets
 
